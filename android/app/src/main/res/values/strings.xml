@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Quoddex</string>
+    <string name="title_activity_main">Quoddex</string>
+    <string name="package_name">com.biesseme.quoddex</string>
+    <string name="custom_url_scheme">com.biesseme.quoddex</string>
+</resources>

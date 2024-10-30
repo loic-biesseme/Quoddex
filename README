@@ -1,0 +1,9 @@
+# ReadeMe
+
+```bash
+  npm create vite@latest Quoddedx -- -- template
+  cd Quoddedx
+  npm Install
+  npm i react-router-dom react-query @mui/material @emotion/react @emotion/styled @mui/icons-material @fontsource/roboto notistack redux react-redux @reduxjs/toolkit react-devtools
+  npm install @capacitor/core @capacitor/cli
+```
